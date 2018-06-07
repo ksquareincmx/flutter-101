@@ -1,0 +1,4 @@
+#Thu May 31 20:13:54 CDT 2018
+base.0=/Users/javoks/AndroidStudioProjects/pokedex_v1/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
